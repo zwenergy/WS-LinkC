@@ -2,7 +2,7 @@
 A link cable adapter for the WonderSwan which uses a USB-C cable.
 
 ## NEVER USE THIS ADAPTER TO CONNECT A WONDERSWAN TO A COMPUTER OR ANY OTHER USB-C DEVICE
-The idea of this adapter to have a cheap & DIY-friendly alternative to connect two WonderSwans together for multiplayer. **The USB-C connector is only used as a connector here, it has nothing to do with an actual USB connection**. You will easily destroy your WonderSwan, your computer (or whatever USB device connected) or both if you try to connect it to anything other. **Do not try it, there is no point in it.**
+The idea of this adapter is to have a cheap & DIY-friendly alternative to connect two WonderSwans together for multiplayer. **The USB-C connector is only used as a connector here, it has nothing to do with an actual USB connection**. You will easily destroy your WonderSwan, your computer (or whatever USB device connected) or both if you try to connect it to anything other. **Do not try it, there is no point in it.**
 
 ## Info
 The WS LinkC is an adapter for the WonderSwan (Color) to use a USB-C cable to connect to WonderSwans together instead of the original proprietary one.
