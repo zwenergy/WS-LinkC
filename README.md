@@ -11,6 +11,8 @@ As the original link cable is crossed internally (and USB-C cables are not), thi
 
 **Never connect adapters which are set to the same jumpers. Never mix jumper settings on one PCB.**
 
+Ah, and I forgot one point: **Never use this adapter to connect to a computer or other USB-C device.**
+
 ## Parts
 | **Reference** | **Value**| **Links**
 |---------------|----------|----------|
