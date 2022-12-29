@@ -9,9 +9,13 @@ The WS LinkC is an adapter for the WonderSwan (Color) to use a USB-C cable to co
 
 As the original link cable is crossed internally (and USB-C cables are not), this is done on the adapter. For this you need to bridge both jumper connections J12 on one adapter PCB (from here on called *Device A*) and J23 on the other (now called *Device B*).
 
+Place the headphone connector to the very bottom of the WS connector (seen in landscape) to work properly when using without sleeve.
+
 **Never connect adapters which are set to the same jumpers. Never mix jumper settings on one PCB.**
 
 Ah, and I forgot one point: **Never use this adapter to connect to a computer or other USB-C device.**
+
+The PCB needs to be ordered with a thickness of 1.6 mm.
 
 ## Parts
 | **Reference** | **Value**| **Links**
